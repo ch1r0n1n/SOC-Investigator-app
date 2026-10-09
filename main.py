@@ -11,7 +11,7 @@ from ronin.validators import classify_ioc
 
 BANNER = r"""
 ================================================
-             RONIN IOC INVESTIGATOR
+            BASIC IOC INVESTIGATOR
 ================================================
 """
 
