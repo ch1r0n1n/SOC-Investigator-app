@@ -5,7 +5,7 @@ import os
 from dataclasses import dataclass
 from pathlib import Path
 
-
+# We drop the API keys down hurr
 @dataclass(frozen=True)
 class Settings:
     shodan_api_key: str = ""
